@@ -28,7 +28,7 @@ public class Fragment_ALL extends BaseFragemnt {
     @BindView(R.id.rcy)
     RecyclerView mRcy;
     private List<AdPageInfo> list = new ArrayList<>();
-
+//只需在现场V型初步调查v
     @Override
     public int getLayOutId() {
         return R.layout.fragment_all;
